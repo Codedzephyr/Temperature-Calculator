@@ -4,7 +4,7 @@ Converting Farenheit to Celsius and Celsius to Farenheit
 ### Built With
 <ul>
   <li> HTML 5 </LI>
-  <li> Materialize </li>
+  <li> Bootstrap</li>
   <li> Vanilla JS </LI>
  </ul>
  
